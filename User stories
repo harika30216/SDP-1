@@ -1,0 +1,28 @@
+USER STORIES FOR PROJECT MANAGEMENT SYSTEM
+
+PROJECT MANAGER:
+As a project manager, I want login details so that I can login into the website.
+As a project manager, I want to know the team details so that I can manage the project.
+As a project manager, I want to set the due dates so that we can complete the project in time.
+
+DEVELOPER:
+ As a developer, I want a team so that I can conduct market research.
+As a developer, I want code so that I can develop the project.
+As a developer, I want the team details so that I can know the state of the project .
+
+EMPLOYEE:
+As an employee, I want a document so that I can present and explain the project in detail.
+As an employee, I want to manage the project so that I can report the work on time.
+As an employee, I want a workplace so that I will not deviate from the work.
+
+TASK MANAGER:
+As a task manager, I want good network system so that I can monitor the program used to provide information about the project.
+As a task manager, I want to do implementation so that I can terminate processes and applications of project.
+As a task manager, I want to do list so that I can track the task from beginning to end.
+
+
+
+ORGANIZATION:
+As an organization, I want to provide a best app so that the project managers can give best output.
+As an organization, I want to manage the budget so that it can reach the customers easily. 
+As a organization, I want reports of project so that I can know the status of the project.
